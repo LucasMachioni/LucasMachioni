@@ -1,5 +1,5 @@
 <p>
-Olá, eu sou o Lucas, sou estudante de programação no Senac Araraquara
+Olá, eu sou Lucas, sou estudante de programação no Senac Araraquara
 </p>
 
 <p>
