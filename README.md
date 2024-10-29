@@ -2,9 +2,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasMachioni&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasMachioni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false" height="150" alt="languages graph" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasMachioni&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false" height="200" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasMachioni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false" height="200" alt="languages graph" />
 </div>
 
 ###
@@ -34,6 +34,8 @@
 
 ###
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazh4a25la29qcDllajF0OHZlbW1tbWo3eHFibmhhZThyajE5b3d1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G6wIQZW9k82C9KDe7C/giphy.gif" />
+<div align="center">
+  <img height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazh4a25la29qcDllajF0OHZlbW1tbWo3eHFibmhhZThyajE5b3d1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G6wIQZW9k82C9KDe7C/giphy.gif" />
+</div>
 
 ###
