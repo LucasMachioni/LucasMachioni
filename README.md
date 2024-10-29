@@ -38,11 +38,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/LucasMachioni/LucasMachioni/output/snake.svg" alt="Snake animation" />
-</div>
-
-###
