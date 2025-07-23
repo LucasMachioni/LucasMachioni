@@ -1,0 +1,24 @@
+name: Generate Pacman Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # roda todo dia à meia-noite
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: output/pacman-contribution-graph.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_contributions: yes
+          plugin_contributions_sections: repositories, commits
+          plugin_contributions_charts: yes
+          plugin_contributions_charts_type: classic
+          plugin_contributions_pacman: yes
